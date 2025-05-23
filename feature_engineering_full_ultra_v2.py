@@ -90,6 +90,7 @@ def calculate_chaikin_oscillator(df: pd.DataFrame) -> pd.Series:
 @lru_cache(maxsize=1000)
 def fetch_news_embeddings(symbol: str, timestamp: int) -> tuple:
     from data.data_manager import get_recent_news_texts
+    import numpy as np
     try:
         if not symbol:
             logger.warning("نماد (symbol) خالی یا None است.")
@@ -110,9 +111,12 @@ def fetch_news_embeddings(symbol: str, timestamp: int) -> tuple:
         with torch.no_grad():
             outputs = model(**inputs)
         embeddings = outputs.last_hidden_state.mean(dim=1).squeeze().numpy()
-        pca = PCA(n_components=50)
-        reduced_embeddings = pca.fit_transform(embeddings.reshape(1, -1))[0]
-        return [float(e) if pd.notna(e) else 0.0 for e in reduced_embeddings]
+        # اگر embedding کمتر از 50 بعد داشت با صفر پر کن، اگر بیشتر بود 50 تا اول
+        if embeddings.shape[0] < 50:
+            embeddings = np.pad(embeddings, (0, 50 - embeddings.shape[0]), 'constant')
+        else:
+            embeddings = embeddings[:50]
+        return tuple(float(e) if not np.isnan(e) else 0.0 for e in embeddings)
     except Exception as e:
         logger.error(f"خطا در تولید امبدینگ برای {symbol}: {e}", exc_info=True)
         return tuple([0.0] * 50)
