@@ -1,0 +1,689 @@
+Microsoft Windows [Version 10.0.20348.2322]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Administrator>cd C:\
+
+C:\>findstr /s /i "PCA" *.py
+$Recycle.Bin\S-1-5-21-3916683422-3405376795-491586591-500\$RTGA3GL.venv\Lib\site-packages\adodbapi\test\adodbapitest.py:            upcaseConverter = lambda aStringField: aStringField.upper()
+$Recycle.Bin\S-1-5-21-3916683422-3405376795-491586591-500\$RTGA3GL.venv\Lib\site-packages\adodbapi\test\adodbapitest.py:            assert upcaseConverter("upThis") == "UPTHIS"
+$Recycle.Bin\S-1-5-21-3916683422-3405376795-491586591-500\$RTGA3GL.venv\Lib\site-packages\adodbapi\test\adodbapitest.py:            rows.converters[1] = upcaseConverter  # convert second column
+$Recycle.Bin\S-1-5-21-3916683422-3405376795-491586591-500\$RV1TSPX.py:    """╪»╪▒█î╪º┘ü╪¬ ╪º┘à╪¿╪»█î┘å┌»ΓÇî┘ç╪º█î ╪«╪¿╪▒█î ╪¿╪»┘ê┘å PCA"""
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:_O1TcsDloJ`T4?A;I!1BYXLlQFA&E@5b)8L?*Kp-v<%J<##=B_wik`y5EWtPcaU^ZJaqgvVv=|nXU%y
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:gRFQCB$r?tg}<7tfhLLEvOpW;VcH0Q@y!muQeHYXZehP9NkpCa|e97K=sdbC?&KhLuXJ;w>NRx49mcK
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:g&DvrUemy&@iQHo0NIzYYkytKgXJ=;{xfM%PCmmbeO`uMu`pCatW;l-V5peZoz|TB@mEUEk_WZe(YFR
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:%`uhdL9qqdW6|ds{;x5S7T+N!aG76W@c&{ZN)tqFsPx>$WnpcaX!nM7E}`V}m3V2KB#f)>pO|=tZM7a
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:lrZ%yIg_9ePJ74{}RZ1-Q+4NMFMViSO6PcAd5HX+0g7Q&@&qjt?)#PV)&0D(P)Gxn*#SxYjDvp1Sv*6
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:8TocXqAGvkpeMM7G@;4P3XzF+%EnLL(dL{6V=_RGS|Pca^i4;W_hFY<I6<9^ez4uF$tyD*DZYUeodrq
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:R>lu_N4ma0RLR0-Cy$<-{Q1=5|-JTwYrgr+wB&bo~+G<PcaD4C+UgvUO0*>Y~k0+OyC@h`s5z8IXYjG
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:XE$5ecP#dA}*rQR(bPoLvWgVj0U^6!bEmO5?PM_DYflDs?Rrg9p*PCatjJ?&<X_WVg^Ip1wM6IC8>P;
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:K&dpCAos=&rJi48tpD&<S1R6-hH5+SkD5W@cYdwL{5NCLy9vg@l_S1QIcJx|YcKm9Vp^XJ(=RBv22TX
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:_ZOc^ou>AKrh*!(0<s<PCay9Bz`6Ynar9@r*KuYMZv^+NzBk<Lj<d+Vql8phtFJ(VCnOe5itF*+BLaC
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:03^4pfqg9+eJ$&Pca3>mv8*#$nztCIfv2K;fcT)2i86P}p@XU^$6QtUNWRCsbnhm5r#m{Qx<*@M_!<(
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:)O`gZ~9dw#3t$EHC0LH7d+?Q0PcaH%wrca*%6KTWvsjQK-&&SDhXozXplc<pVWL5_L;!jk?uF=g&G4#
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:#rOr{0s~FIQ(pdD7yBI-P$ZOJ#5gI0i@#nC7)X*j|pCAneAz}SXNHxq?(tKG^B=gJsVqeFAsv!->4kH
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:3vl+J^<8~OgU&ieyPCATR6(_aFcS@)P^2{1{kc``5+>pmIZoiB>8uuhWq%bSSjoWgn#_d2QaJt1dZbx
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:g2%Ch-`xUS!>Zho;+{Zk>>vPPCa@4FNX=|x^qk{QFE*$zU>O^3n}L|miuAcfrMuSdPoWjfzyU1%8Lj?
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:Z^>+0ZTTe4D^1aQd_lOpCaXuA{rCLQq3But@+|%f`xcjToZUf1E6eah{Q6!GtJcwfwGNx36nePI1Onf
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:wLDju%mZ@OC8o<8Am?~=6=5c7)PCALb2dw9a*kFN)zVXYSsSdEoXv*<9moA@J+4uN!_W88iF3Rj=)~*
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:oa-xHvKAG^X>5$k;f`v}gpm@ncTUsPJI2e$PfuV5PchEt!PV6j-H(0D(VWIncGW7`?V+})TLpCauq8a
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:t<&)pXkB^V9F)_)WTJYzp{8$|EpCaBo5<kX!_F}Y~=ALw2j26;do-W8lnjzm==<)95ERc-)J&t_aXbu
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:>G9i-n5<IQy%eoUqxk8PsvF9*zD0RA;D5<&7LlRl>Z=y|<$cEpcANIg)V#uyNK@Fzw*gZNL`-r=)hI8
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:p_Ag>)9tTM)|`J_e*PceiOv|4bpCawBr?eMw+zgx8vzoUTYYHXCrZ$d7Kb_Ch7I^itsfM9@Fvh2;6&q
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:!aNDmt_5L4QHa#bO0k>_|!Pca}$nIDFXXoBJkNhKE8XOtJOC#^3FsF6?Ltd)yO!88GIK@j~h&uT+aU0
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:#iPm;;AxcK8Ow6_5*_(n3i5!zQ69%_^Y-}J6f1PCA<B2-t#|Diq~~*Q{nnn3Vpx*KVr$)Nf4R+Ed_}Y
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:4b0^YOQ#}PKp0;1H{?`MT~)~)w$Zwz<qEr6pca@2Rn>L$oQLZkw07(R#h8_{_U9{7iqmy3I@8?8zDTe
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:|c*3PiGHsk?afFf%aZt}i06gCecaMUR@v5X2~%nSyJ~5Y0&hpcAdL6){;MBB1u?ww<NL5u4=*_~xQa9
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:{KT7j<!IQ^*jyJXT%Am6<X=BY<HD>Aen{{Myw8e|36V%t!k}c4S>!R8;%k6<2rA3T_ipcARYo+nKkP_
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:ulyVunVX{U2i9FP2;C8tGk`6G8Po57g4S}jbcc>>fALnt&5t~Hn3$)Ymj_#YBSWWzl`Q}MYq}pca5&K
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:j^loB~_%-__E(V`ZMt=1PCAb_{0w-i^W1kd`U=5S?TMbS^b?KrGD-WLG7z#5kkbH@ri5$d+jQV6_`5s
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:2Ioz0;2ZtWUDwXkH5ECHAMPcAIleUI4z4qUhw32xmxH?sk)k9FpijrRgmRO;PgFNuB@z)Oe>9>ixkIv
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:iHm}Mh)?P)4xiu1r2%I&Cm_V!B_CYEz*g>IFz`!6N@C3RpCAi6=DW;BL@?%}w&6SNrFL3hIfe8#M={d
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:cxBL;kd31P}w)9^q-j0MyyoyW^67jStDeCH}HVhm51#XhftVR5u#LE@|ly(2WL>OJY|<>PCaOO&0cUx
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:k!+pzPbiONRC>tEPJw?q-vy=NIs-4szn=^4}OLLjGDXqGoYET!PD)_xBx9V<{THOmpcA1{LoANH{Z@P
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:q!ZmWr64}qRSyj#B4oChz-X=ZALowNT|LlgxMfJ1}AJt|hKKOgeHYQe9PpIpuN={DCPcAPPS7%Si$$*
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\get-pip.py:~=+IK)jR5?vP_tInrtWz&Z9ooPCak?`E40&kE_%fu~ElRgh3JYuL!SF=Z_3fURi)EtRi@y#UK0Z*7g!
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\lib\jedilsp\typeguard\_checkers.py:TypeCheckLookupCallback: TypeAlias = Callable[
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\lib\jedilsp\typeguard\_checkers.py:checker_lookup_functions: list[TypeCheckLookupCallback] = []
+Users\Administrator\.vscode\extensions\ms-python.python-2024.4.1\python_files\lib\jedilsp\typeguard\__init__.py:from ._checkers import TypeCheckLookupCallback as TypeCheckLookupCallback
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\collections\__init__.py:    def swapcase(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\collections\__init__.py:        return self.__class__(self.data.swapcase())
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\html\entities.py:    'capcap;': '\u2a4b',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\html\entities.py:    'CupCap;': '\u224d',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\html\entities.py:    'cupcap;': '\u2a46',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\html\entities.py:    'NotCupCap;': '\u226d',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:FileSFPCatalog = Table('FileSFPCatalog')
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:FileSFPCatalog.add_field(1,'File_',11592)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:FileSFPCatalog.add_field(2,'SFPCatalog_',11775)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:SFPCatalog = Table('SFPCatalog')
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:SFPCatalog.add_field(1,'SFPCatalog',11775)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:SFPCatalog.add_field(2,'Catalog',2304)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:SFPCatalog.add_field(3,'Dependency',7424)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:tables=[_Validation, ActionText, AdminExecuteSequence, Condition, AdminUISequence, AdvtExecuteSequence, AdvtUISequence, AppId, AppSearch, Property, BBControl, Billboard, Feature, Binary, BindImage, File, CCPSearch, CheckBox, Class, Component, Icon, ProgId, ComboBox, CompLocator, Complus, Directory, Control, Dialog, ControlCondition, ControlEvent, CreateFolder, CustomAction, DrLocator, DuplicateFile, Environment, Error, EventMapping, Extension, MIME, FeatureComponents, FileSFPCatalog, SFPCatalog, Font, IniFile, IniLocator, InstallExecuteSequence, InstallUISequence, IsolatedComponent, LaunchCondition, ListBox, ListView, LockPermissions, Media, MoveFile, MsiAssembly, MsiAssemblyName, MsiDigitalCertificate, MsiDigitalSignature, MsiFileHash, MsiPatchHeaders, ODBCAttribute, ODBCDriver, ODBCDataSource, ODBCSourceAttribute, ODBCTranslator, Patch, PatchPackage, PublishComponent, RadioButton, Registry, RegLocator, RemoveFile, RemoveIniFile, RemoveRegistry, ReserveCost, SelfReg, ServiceControl, ServiceInstall, Shortcut, Signature, TextStyle, TypeLib, UIText, Upgrade, Verb]
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:('FileSFPCatalog','File_','N',None, None, 'File',1,'Identifier',None, 'File associated with the catalog',),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:('FileSFPCatalog','SFPCatalog_','N',None, None, 'SFPCatalog',1,'Filename',None, 'Catalog associated with the file',),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:('SFPCatalog','SFPCatalog','N',None, None, None, None, 'Filename',None, 'File name for the catalog.',),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:('SFPCatalog','Catalog','N',None, None, None, None, 'Binary',None, 'SFP Catalog',),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\schema.py:('SFPCatalog','Dependency','Y',None, None, None, None, 'Formatted',None, 'Parent catalog - only used by SFP',),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\msilib\text.py:('InstallSFPCatalogFile', 'Installing system catalog', 'File: [1],  Dependencies: [2]'),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\pstats.py:    PCALLS = 'pcalls'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\pstats.py:              "pcalls"    : (((0,-1),              ), "primitive call count"),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\pydoc_data\topics.py:                   'str.swapcase()\n'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\pydoc_data\topics.py:                   '   "s.swapcase().swapcase() == s".\n'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\adodbapi\test\adodbapitest.py:            upcaseConverter = lambda aStringField: aStringField.upper()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\adodbapi\test\adodbapitest.py:            assert upcaseConverter("upThis") == "UPTHIS"
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\adodbapi\test\adodbapitest.py:            rows.converters[1] = upcaseConverter  # convert second column
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\bleach\_vendor\html5lib\constants.py:    "CupCap;": "\u224d",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\bleach\_vendor\html5lib\constants.py:    "NotCupCap;": "\u226d",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\bleach\_vendor\html5lib\constants.py:    "capcap;": "\u2a4b",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\bleach\_vendor\html5lib\constants.py:    "cupcap;": "\u2a46",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\catboost\core.py:class EShapCalcType(Enum):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\catboost\core.py:        shap_calc_type : EShapCalcType or string, optional (default="Regular")
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\catboost\core.py:            shap_calc_type = enum_from_enum_or_str(EShapCalcType, shap_calc_type).value
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\catboost\core.py:        shap_calc_type : EShapCalcType or string, optional (default=Regular)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\catboost\core.py:                params["shap_calc_type"] = enum_from_enum_or_str(EShapCalcType, shap_calc_type).value
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\catboost\__init__.py:    FeaturesData, EFstrType, EShapCalcType, EFeaturesSelectionAlgorithm, EFeaturesSelectionGrouping,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\catboost\__init__.py:    'FeaturesData', 'EFstrType', 'EShapCalcType', 'EFeaturesSelectionAlgorithm', 'EFeaturesSelectionGrouping',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\bingx.py:    swap_v1_private_post_twap_cancelorder = swapV1PrivatePostTwapCancelOrder = Entry('twap/cancelOrder', ['swap', 'v1', 'private'], 'POST', {'cost': 5})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\htx.py:    contract_private_post_swap_api_v1_swap_cancel_after = contractPrivatePostSwapApiV1SwapCancelAfter = Entry('swap-api/v1/swap-cancel-after', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\htx.py:    contract_private_post_swap_api_v1_swap_cancel = contractPrivatePostSwapApiV1SwapCancel = Entry('swap-api/v1/swap_cancel', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\htx.py:    contract_private_post_swap_api_v1_swap_cancelall = contractPrivatePostSwapApiV1SwapCancelall = Entry('swap-api/v1/swap_cancelall', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\htx.py:    contract_private_post_linear_swap_api_v1_swap_cancel = contractPrivatePostLinearSwapApiV1SwapCancel = Entry('linear-swap-api/v1/swap_cancel', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\htx.py:    contract_private_post_linear_swap_api_v1_swap_cancelall = contractPrivatePostLinearSwapApiV1SwapCancelall = Entry('linear-swap-api/v1/swap_cancelall', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\huobi.py:    contract_private_post_swap_api_v1_swap_cancel_after = contractPrivatePostSwapApiV1SwapCancelAfter = Entry('swap-api/v1/swap-cancel-after', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\huobi.py:    contract_private_post_swap_api_v1_swap_cancel = contractPrivatePostSwapApiV1SwapCancel = Entry('swap-api/v1/swap_cancel', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\huobi.py:    contract_private_post_swap_api_v1_swap_cancelall = contractPrivatePostSwapApiV1SwapCancelall = Entry('swap-api/v1/swap_cancelall', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\huobi.py:    contract_private_post_linear_swap_api_v1_swap_cancel = contractPrivatePostLinearSwapApiV1SwapCancel = Entry('linear-swap-api/v1/swap_cancel', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\abstract\huobi.py:    contract_private_post_linear_swap_api_v1_swap_cancelall = contractPrivatePostLinearSwapApiV1SwapCancelall = Entry('linear-swap-api/v1/swap_cancelall', ['contract', 'private'], 'POST', {'cost': 1})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\alpaca.py:                'APCA-PARTNER-ID': 'ccxt',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\alpaca.py:            headers['APCA-API-KEY-ID'] = self.apiKey
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\alpaca.py:            headers['APCA-API-SECRET-KEY'] = self.secret
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\alpaca.py:                'APCA-PARTNER-ID': 'ccxt',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\alpaca.py:            headers['APCA-API-KEY-ID'] = self.apiKey
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\alpaca.py:            headers['APCA-API-SECRET-KEY'] = self.secret
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\bingx.py:            response = await self.swapV1PrivatePostTwapCancelOrder(self.extend(twapRequest, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\defx.py:                    'Bad Request': BadRequest,  # {"errorMessage":"Bad Request","data":[{"param":"symbol","message":"\"symbol\" must be one of [ETH_USDC, BTC_USDC, BNB_USDC, SOL_USDC, DOGE_USDC, TON_USDC, AVAX_USDC, WIF_USDC, KPEPE_USDC, KSHIB_USDC, KBONK_USDC, MOODENG_USDC, POPCAT_USDC, MOTHER_USDC]"}]}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\htx.py:                        response = await self.contractPrivatePostLinearSwapApiV1SwapCancel(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\htx.py:                        response = await self.contractPrivatePostSwapApiV1SwapCancel(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\htx.py:                        response = await self.contractPrivatePostLinearSwapApiV1SwapCancel(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\htx.py:                        response = await self.contractPrivatePostSwapApiV1SwapCancel(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\htx.py:                        response = await self.contractPrivatePostLinearSwapApiV1SwapCancelall(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\async_support\htx.py:                        response = await self.contractPrivatePostSwapApiV1SwapCancelall(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\bingx.py:            response = self.swapV1PrivatePostTwapCancelOrder(self.extend(twapRequest, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\defx.py:                    'Bad Request': BadRequest,  # {"errorMessage":"Bad Request","data":[{"param":"symbol","message":"\"symbol\" must be one of [ETH_USDC, BTC_USDC, BNB_USDC, SOL_USDC, DOGE_USDC, TON_USDC, AVAX_USDC, WIF_USDC, KPEPE_USDC, KSHIB_USDC, KBONK_USDC, MOODENG_USDC, POPCAT_USDC, MOTHER_USDC]"}]}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\htx.py:                        response = self.contractPrivatePostLinearSwapApiV1SwapCancel(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\htx.py:                        response = self.contractPrivatePostSwapApiV1SwapCancel(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\htx.py:                        response = self.contractPrivatePostLinearSwapApiV1SwapCancel(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\htx.py:                        response = self.contractPrivatePostSwapApiV1SwapCancel(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\htx.py:                        response = self.contractPrivatePostLinearSwapApiV1SwapCancelall(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\htx.py:                        response = self.contractPrivatePostSwapApiV1SwapCancelall(self.extend(request, params))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\static_dependencies\ethereum\typing\networks.py:    POPCAT = 1213
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\static_dependencies\ethereum\utils\toolz.py:    mapcat,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\static_dependencies\toolz\curried\__init__.py:# mapcat = curry(mapcat)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\static_dependencies\toolz\itertoolz.py:           'mapcat', 'cons', 'interpose', 'frequencies', 'reduceby', 'iterate',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\static_dependencies\toolz\itertoolz.py:def mapcat(func, seqs):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\ccxt\static_dependencies\toolz\itertoolz.py:    >>> list(mapcat(lambda s: [c.upper() for c in s],
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\ttLib\tables\ttProgram.py:    (0x2a,  'LOOPCALL',      0,    'LoopAndCallFunction',    2,  0),    #                             f, count               -
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\varLib\interpolatable.py:                    doc.draw_cupcake()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\varLib\interpolatable.py:                    svg.draw_cupcake()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\varLib\interpolatablePlot.py:    no_issues_label = "Your font's good! Have a cupcake..."
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\varLib\interpolatablePlot.py:    cupcake_color = (0.3, 0, 0.3)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\varLib\interpolatablePlot.py:    cupcake = r"""
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\varLib\interpolatablePlot.py:    def draw_cupcake(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\varLib\interpolatablePlot.py:            self.cupcake,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fontTools\varLib\interpolatablePlot.py:            color=self.cupcake_color,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\caching.py:class MMapCache(BaseCache):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\caching.py:    MMapCache,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\callbacks.py:        ``NoOpCallback``. This is an alternative to including
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\callbacks.py:class NoOpCallback(Callback):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\callbacks.py:DEFAULT_CALLBACK = _DEFAULT_CALLBACK = NoOpCallback()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\core.py:    MMapCache,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\implementations\cached.py:from fsspec.core import BaseCache, MMapCache
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\implementations\cached.py:    :class:`~fsspec.caching.MMapCache`), so only the data which is accessed
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\implementations\cached.py:        f.cache = MMapCache(
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\fsspec\implementations\cache_metadata.py:                            # performed by MMapCache are propagated back to
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\huggingface_hub\hf_file_system.py:from fsspec.callbacks import _DEFAULT_CALLBACK, NoOpCallback, TqdmCallback
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\huggingface_hub\hf_file_system.py:        if not isinstance(callback, (NoOpCallback, TqdmCallback)) or len(unhandled_kwargs) > 0:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\pipeline.py:    >>> from sklearn.decomposition import PCA
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\pipeline.py:    >>> pca = PCA()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\pipeline.py:    >>> pipeline = Pipeline([('smt', smt), ('pca', pca), ('knn', knn)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:from sklearn.decomposition import PCA
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:def test_pipeline_methods_pca_svm():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    # Test the various methods of the pipeline (pca + svm).
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    # Test with PCA + SVC
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA(svd_solver="full", n_components="mle", whiten=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipe = Pipeline([("pca", pca), ("svc", clf)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA(n_components=2, svd_solver="randomized", whiten=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    for preprocessing in [scaler, pca]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA(svd_solver="full")
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipe = Pipeline([("scaler", scaler), ("pca", pca)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA(n_components=2, svd_solver="full")
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipeline = Pipeline([("pca", pca)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    X_trans3 = pca.fit_transform(X)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    X_back2 = pca.inverse_transform(X_trans)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:def test_pipeline_methods_pca_rus_svm():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    # Test the various methods of the pipeline (pca + svm).
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    # Test with PCA + SVC
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipe = Pipeline([("pca", pca), ("rus", rus), ("svc", clf)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:def test_pipeline_methods_rus_pca_svm():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    # Test the various methods of the pipeline (pca + svm).
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    # Test with PCA + SVC
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipe = Pipeline([("rus", rus), ("pca", pca), ("svc", clf)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipeline = Pipeline([("pca", PCA()), ("rus", rus)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    X_pca = pca.fit_transform(X)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    X_trans2, y_trans2 = rus.fit_resample(X_pca, y)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    # We round the value near to zero. It seems that PCA has some issue
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca2 = PCA()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipeline = Pipeline([("pca", pca), ("rus", rus), ("pca2", pca2)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA(whiten=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipe = make_pipeline(None, pca)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:def test_pipeline_score_samples_pca_lof_binary():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA(svd_solver="full", n_components="mle", whiten=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipe = Pipeline([("rus", rus), ("pca", pca), ("lof", lof)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    lof.fit(pca.fit_transform(X_res))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    assert_allclose(pipe.score_samples(X), lof.score_samples(pca.transform(X)))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:def test_pipeline_score_samples_pca_lof_multiclass():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pca = PCA(svd_solver="full", n_components="mle", whiten=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    pipe = Pipeline([("rus", rus), ("pca", pca), ("lof", lof)])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    lof.fit(pca.fit_transform(X))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\imblearn\tests\test_pipeline.py:    assert_allclose(pipe.score_samples(X), lof.score_samples(pca.transform(X)))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\IPython\core\magics\execution.py:          "pcalls"      primitive call count
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\jupyter_client\ioloop\restarter.py:    _pcallback = None
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\jupyter_client\ioloop\restarter.py:        if self._pcallback is None:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\jupyter_client\ioloop\restarter.py:            self._pcallback = PeriodicCallback(
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\jupyter_client\ioloop\restarter.py:            self._pcallback.start()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\jupyter_client\ioloop\restarter.py:        if self._pcallback is not None:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\jupyter_client\ioloop\restarter.py:            self._pcallback.stop()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\jupyter_client\ioloop\restarter.py:            self._pcallback = None
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\llvmlite\ir\builder.py:        Zero-extending integer upcast to a larger type:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\llvmlite\ir\builder.py:        Sign-extending integer upcast to a larger type:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\llvmlite\ir\builder.py:        Floating-point upcast to a more precise type:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\llvmlite\ir\values.py:        Zero-extending integer upcast to a larger type
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\llvmlite\ir\values.py:        Sign-extending integer upcast to a larger type.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\llvmlite\ir\values.py:        Floating-point upcast to a more precise type.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\markupsafe\__init__.py:    def swapcase(self, /) -> te.Self:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\markupsafe\__init__.py:        return self.__class__(super().swapcase())
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py:        def _upcast_err(err):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py:            xerr = _upcast_err(xerr)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\matplotlib\axes\_axes.py:            yerr = _upcast_err(yerr)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\narwhals\_arrow\dataframe.py:        # upcast numeric to non-numeric (e.g. string) datatypes
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\nltk\app\nemo_app.py:    "FIND": "R0lGODlhMAAiAPcAMf/////37//35//n1v97Off///f/9/f37/fexvfOvfeEQvd7QvdrQvdrKfdaKfdSMfdSIe/v9+/v7+/v5+/n3u/e1u/Wxu/Gre+1lO+tnO+thO+Ua+97Y+97Oe97Me9rOe9rMe9jOe9jMe9jIe9aMefe5+fe3ufezuece+eEWudzQudaIedSIedKMedKIedCKedCId7e1t7Wzt7Oxt7Gvd69vd69rd61pd6ljN6UjN6Ue96EY95zY95rUt5rQt5jMd5SId5KIdbn59be3tbGztbGvda1rdaEa9Z7a9Z7WtZzQtZzOdZzMdZjMdZaQtZSOdZSMdZKMdZCKdZCGNY5Ic7W1s7Oxs7Gtc69xs69tc69rc6tpc6llM6clM6cjM6Ue86EY85zWs5rSs5SKc5KKc5KGMa1tcatrcalvcalnMaUpcZ7c8ZzMcZrUsZrOcZrMcZaQsZSOcZSMcZKMcZCKcZCGMYxIcYxGL3Gxr21tb21rb2lpb2crb2cjL2UnL2UlL2UhL2Ec717Wr17Ur1zWr1rMb1jUr1KMb1KIb1CIb0xGLWlrbWlpbWcnLWEe7V7c7VzY7VzUrVSKbVKMbVCMbVCIbU5KbUxIbUxEK2lta2lpa2clK2UjK2MnK2MlK2Ea617e61za61rY61rMa1jSq1aUq1aSq1SQq1KKa0xEKWlnKWcnKWUnKWUhKWMjKWEa6Vza6VrWqVjMaVaUqVaKaVSMaVCMaU5KaUxIaUxGJyclJyMe5yElJyEhJx7e5x7c5xrOZxaQpxSOZxKQpw5IZSMhJSEjJR7c5Rre5RrY5RrUpRSQpRSKZRCOZRCKZQxKZQxIYyEhIx7hIxza4xzY4xrc4xjUoxaa4xaUoxSSoxKQoxCMYw5GIR7c4Rzc4Rre4RjY4RjWoRaa4RSWoRSUoRSMYRKQoRCOYQ5KYQxIXtra3taY3taSntKOXtCMXtCKXNCMXM5MXMxIWtSUmtKSmtKQmtCOWs5MWs5KWs5IWNCKWMxIVIxKUIQCDkhGAAAACH+AS4ALAAAAAAwACIAAAj/AAEIHEiwoMGDCBMqXMiwoUOHMqxIeEiRoZVp7cpZ29WrF4WKIAd208dGAQEVbiTVChUjZMU9+pYQmPmBZpxgvVw+nDdKwQICNVcIXQEkTgKdDdUJ+/nggVAXK1xI3TEA6UIr2uJ8iBqka1cXXTlkqGoVYRZ7iLyqBSs0iiEtZQVKiDGxBI1u3NR6lUpGDKg8MSgEQCphU7Z22vhg0dILXRCpYLuSCcYJT4wqXASBQaBzU7klHxC127OHD7ZDJFpERqRt0x5OnwQpmZmCLEhrbgg4WIHO1RY+nbQ9WRGEDJlmnXwJ+9FBgXMCIzYMVijBBgYMFxIMqJBMSc0Ht7qh/+Gjpte2rnYsYeNlasWIBgQ6yCewIoPCCp/cyP/wgUGbXVu0QcADZNBDnh98gHMLGXYQUw02w61QU3wdbNWDbQVVIIhMMwFF1DaZiPLBAy7E04kafrjSizaK3LFNNc0AAYRQDsAHHQlJ2IDQJ2zE1+EKDjiAijShkECCC8Qgw4cr7ZgyzC2WaHPNLWWoNeNWPiRAw0QFWQFMhz8C+QQ20yAiVSrY+MGOJCsccsst2GCzoHFxxEGGC+8hgs0MB2kyCpgzrUDCbs1Es41UdtATHFFkWELMOtsoQsYcgvRRQw5RSDgGOjZMR1AvPQIq6KCo9AKOJWDd48owQlHR4DXEKP9iyRrK+DNNBTu4RwIPFeTAGUG7hAomkA84gEg1m6ADljy9PBKGGJY4ig0xlsTBRSn98FOFDUC8pwQOPkgHbCGAzhTkA850s0c7j6Hjix9+gBIrMXLeAccWXUCyiRBcBEECdEJ98KtAqtBCYQc/OvDENnl4gYpUxISCIjjzylkGGV9okYUVNogRhAOBuuAEhjG08wOgDYzAgA5bCjIoCe5uwUk80RKTTSppPREGGGCIISOQ9AXBg6cC6WIywvCpoMHAocRBwhP4bHLFLujYkV42xNxBRhAyGrc113EgYtRBerDDDHMoDCyQEL5sE083EkgwQyBhxGFHMM206DUixGxmE0wssbQjCQ4JCaFKFwgQTVAVVhQUwAVPIFJKrHfYYRwi6OCDzzuIJIFhXAD0EccPsYRiSyqKSDpFcWSMIcZRoBMkQyA2BGZDIKSYcggih8TRRg4VxM5QABVYYLxgwiev/PLMCxQQADs=",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\nltk\app\nemo_app.py:    "REPL": "R0lGODlhMAAjAPcAMf/////3//+lOf+UKf+MEPf///f39/f35/fv7/ecQvecOfecKfeUIfeUGPeUEPeUCPeMAO/37+/v9+/v3u/n3u/n1u+9jO+9c++1hO+ta++tY++tWu+tUu+tSu+lUu+lQu+lMe+UMe+UKe+UGO+UEO+UAO+MCOfv5+fvxufn7+fn5+fnzue9lOe9c+e1jOe1e+e1c+e1a+etWuetUuelQuecOeeUUueUCN7e597e3t7e1t7ezt7evd7Wzt7Oxt7Ovd7Otd7Opd7OnN7Gtd7Gpd69lN61hN6ta96lStbextberdbW3tbWztbWxtbOvdbOrda1hNalUtaECM7W1s7Ozs7Oxs7Otc7Gxs7Gvc69tc69rc69pc61jM6lc8bWlMbOvcbGxsbGpca9tca9pca1nMaMAL3OhL3Gtb21vb21tb2tpb2tnL2tlLW9tbW9pbW9e7W1pbWtjLWcKa21nK2tra2tnK2tlK2lpa2llK2ljK2le6WlnKWljKWUe6WUc6WUY5y1QpyclJycjJychJyUc5yMY5StY5SUe5SMhJSMe5SMc5SMWpSEa5SESoyUe4yMhIyEY4SlKYScWoSMe4SEe4SEa4R7c4R7Y3uMY3uEe3t7e3t7c3tza3tzY3trKXtjIXOcAHOUMXOEY3Nzc3NzWnNrSmulCGuUMWuMGGtzWmtrY2taMWtaGGOUOWOMAGNzUmNjWmNjSmNaUmNaQmNaOWNaIWNSCFqcAFpjUlpSMVpSIVpSEFpKKVKMAFJSUlJSSlJSMVJKMVJKGFJKAFI5CEqUAEqEAEpzQkpKIUpCQkpCGEpCAEo5EEoxAEJjOUJCOUJCAEI5IUIxADl7ADlaITlCOTkxMTkxKTkxEDkhADFzADFrGDE5OTExADEpEClrCCkxKSkpKSkpISkpACkhCCkhACkYACFzACFrACEhCCEYGBhjEBhjABghABgYCBgYABgQEBgQABAQABAIAAhjAAhSAAhKAAgIEAgICABaAABCAAAhAAAQAAAIAAAAAAAAACH+AS4ALAAAAAAwACMAAAj/AAEIHEiwoMGDCBMqXMiwocOHAA4cgEixIIIJO3JMmAjADIqKFU/8MHIkg5EgYXx4iaTkI0iHE6wE2TCggYILQayEAgXIy8uGCKz8sDCAQAMRG3iEcXULlJkJPwli3OFjh9UdYYLE6NBhA04UXHoVA2XoTZgfPKBWlOBDphAWOdfMcfMDLloeO3hIMjbWVCQ5Fn6E2UFxgpsgFjYIEBADrZU6luqEEfqjTqpt54z1uuWqTIcgWAk7PECGzIUQDRosDmxlUrVJkwQJkqVuX71v06YZcyUlROAdbnLAJKPFyAYFAhoMwFlnEh0rWkpz8raPHm7dqKKc/KFFkBUrVn1M/ziBcEIeLUEQI8/AYk0i9Be4sqjsrN66c9/OnbobhpR3HkIUoZ0WVnBE0AGLFKKFD0HAFUQe77HQgQI1hRBDEHMcY0899bBzihZuCPILJD8EccEGGzwAQhFaUHHQH82sUkgeNHISDBk8WCCCcsqFUEQWmOyzjz3sUGNNOO5Y48YOEgowAAQhnBScQV00k82V47jzjy9CXZBcjziFoco//4CDiSOyhPMPLkJZkEBqJmRQxA9uZGEQD8Ncmc044/zzDF2IZQBCCDYE8QMZz/iiCSx0neHGI7BIhhhNn+1gxRpokEcQAp7seWU7/PwTyxqG/iCEEVzQmUombnDRxRExzP9nBR2PCKLFD3UJwcMPa/SRqUGNWJmNOVn+M44ukMRB4KGcWDNLVhuUMEIJAlzwA3DJBHMJIXm4sQYhqyxCRQQGLSIsn1qac2UzysQSyzX/hLMGD0F0IMCODYAQBA9W/PKPOcRiw0wzwxTiokF9dLMnuv/Mo+fCZF7jBr0xbDDCACWEYKgb1vzjDp/jZNOMLX0IZxAKq2TZTjtaOjwOsXyG+s8sZJTIQsUdIGHoJPf8w487QI/TDSt5mGwQFZxc406o8HiDJchk/ltLHpSlJwSvz5DpTjvmuGNOM57koelBOaAhiCaaPBLL0wwbm003peRBnBZqJMJL1ECz/HXYYx/NdAIOOVCxQyLorswymU93o0wuwfAiTDNR/xz0MLXU0XdCE+UwSTRZAq2lsSATu+4wkGvt+TjNzPLrQyegAUku2Hij5cd8LhxyM8QIg4w18HgcdC6BTBFSDmfQqsovttveDcG7lFLHI75cE841sARCxeWsnxC4G9HADPK6ywzDCRqBo0EHHWhMgT1IJzziNci1N7PMKnSYfML96/90AiJKey/0KtbLX1QK0rrNnQ541xugQ7SHhkXBghN0SKACWRc4KlAhBwKcIOYymJCAAAA7",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\nltk\chunk\named_entity.py:            return "upcase"
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\nltk\tag\sequential.py:            shape = "upcase"
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\caching.py:class _ZipCacheLocator(_SourceFileBackedLocatorMixin, _CacheLocator):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\caching.py:        _ZipCacheLocator,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\typing\new_builtins.py:# Bitwise invert and negate are special: we must not upcast the operand
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\typing\old_builtins.py:# automatically upcast.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\typing\old_builtins.py:# Bitwise invert and negate are special: we must not upcast the operand
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\untyped_passes.py:class IterLoopCanonicalization(FunctionPass):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\untyped_passes.py:        pm.add_pass(IterLoopCanonicalization,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\withcontexts.py:        spcattr = ir.Expr.getattr(gvar, 'set_parallel_chunksize', loc)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\core\withcontexts.py:        set_state.append(ir.Assign(spcattr, spcvar, loc))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\new_numbers.py:    # Negate before upcasting, for unsigned numbers
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\new_numbers.py:    # Invert before upcasting, for unsigned numbers
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\new_numbers.py:        # Signed upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\new_numbers.py:        # Unsigned upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\old_numbers.py:    # Negate before upcasting, for unsigned numbers
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\old_numbers.py:    # Invert before upcasting, for unsigned numbers
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\old_numbers.py:        # Signed upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\old_numbers.py:        # Unsigned upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\unicode.py:def _ascii_swapcase(data, res):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\unicode.py:def _unicode_swapcase(data, length, res, maxchars):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\unicode.py:@overload_method(types.UnicodeType, 'swapcase')
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\unicode.py:def unicode_swapcase(data):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cpython\unicode.py:    return case_operation(_ascii_swapcase, _unicode_swapcase)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\cudadrv\devicearray.py:        Returns a *IpcArrayHandle* object that is safe to serialize and transfer
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\cudadrv\devicearray.py:        return IpcArrayHandle(ipc_handle=ipch, array_desc=desc)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\cudadrv\devicearray.py:class IpcArrayHandle(object):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_ipc.py:def ipc_array_test(ipcarr, result_queue):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_ipc.py:        with ipcarr as darr:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_ipc.py:                with ipcarr:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_ipc.py:def staged_ipc_array_test(ipcarr, device_num, result_queue):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_ipc.py:            with ipcarr as darr:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_ipc.py:                    with ipcarr:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_sync.py:    def test_syncthreads_count_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_sync.py:    def test_syncthreads_and_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\cuda\tests\cudapy\test_sync.py:    def test_syncthreads_or_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\np\math\numbers.py:    # Negate before upcasting, for unsigned numbers
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\np\math\numbers.py:    # Invert before upcasting, for unsigned numbers
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\np\math\numbers.py:        # Signed upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\np\math\numbers.py:        # Unsigned upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_array_methods.py:            # check upcasting logic, this matters most on windows
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_caching.py:from numba.core.caching import _UserWideCacheLocator, _ZipCacheLocator
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_caching.py:    ZipCache tests that don't require the setup/teardown from `TestCacheZip`
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_caching.py:        locator = _ZipCacheLocator.from_function(mock_func, zip_path)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_caching.py:        locator = _ZipCacheLocator.from_function(mock_func, non_zip_path)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_dictobject.py:    def test_simple_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:                                       SimplifyCFG, IterLoopCanonicalization,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:class TestLoopCanonicalisation(MemoryLeakMixin, TestCase):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:                    pm.add_pass(IterLoopCanonicalization, "Canonicalise loops")
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:    LoopCanonicalisingCompiler = get_pipeline(True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:    TypedLoopCanonicalisingCompiler = get_pipeline(True, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:            get_info(self.LoopCanonicalisingCompiler)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:            get_info(self.LoopCanonicalisingCompiler)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:            get_info(self.TypedLoopCanonicalisingCompiler)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:            get_info(self.TypedLoopCanonicalisingCompiler)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:            get_info(self.LoopCanonicalisingCompiler)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_mixed_tuple_unroller.py:            get_info(self.LoopCanonicalisingCompiler)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_np_functions.py:            # weights as list, then array, mixed types, check upcast is ok
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:    def get_numpy_signed_upcast(self, *vals):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:    def get_numpy_unsigned_upcast(self, *vals):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_signed_upcast(a, b)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_unsigned_upcast(a, b)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_signed_upcast(a, b)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_signed_upcast(a, b)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_unsigned_upcast(a, b)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_signed_upcast(a)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_unsigned_upcast(a)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_signed_upcast(a)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_operators.py:            tp = self.get_numpy_unsigned_upcast(a)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_target_extension.py:                # Signed upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_target_extension.py:                # Unsigned upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_unicode.py:    def test_swapcase(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_unicode.py:            return x.swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numba\tests\test_unicode.py:        msg = 'Results of "{}".swapcase() must be equal'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\array_api\_statistical_functions.py:    # Note: sum() and prod() always upcast for dtype=None. `np.prod` does that
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\array_api\_statistical_functions.py:    # Note: sum() and prod() always upcast for dtype=None. `np.sum` does that
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:    'rstrip', 'split', 'splitlines', 'startswith', 'strip', 'swapcase',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:def swapcase(a):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:    Calls `str.swapcase` element-wise.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:    str.swapcase
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:    >>> np.char.swapcase(c)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:    return _vec_string(a_arr, a_arr.dtype, 'swapcase')
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:    swapcase
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:    def swapcase(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:        char.swapcase
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\defchararray.py:        return asarray(swapcase(self))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\numerictypes.py:    # prevent abstract classes being upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\tests\test_defchararray.py:    def test_swapcase(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\tests\test_defchararray.py:        assert_(issubclass(self.A.swapcase().dtype.type, np.bytes_))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\tests\test_defchararray.py:        assert_array_equal(self.A.swapcase(), tgt)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\tests\test_defchararray.py:        assert_(issubclass(self.B.swapcase().dtype.type, np.str_))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\tests\test_defchararray.py:        assert_array_equal(self.B.swapcase(), tgt)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\tests\test_multiarray.py:        # test out with type upcast to complex
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\tests\test_multiarray.py:        # also check upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\tests\test_ufunc.py:        expected = call_ufunc(arr.astype(np.float64))  # upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\core\_add_newdocs.py:    Upcasting:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\distutils\cpuinfo.py:    def _is_PCA56(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\distutils\cpuinfo.py:        return self.is_Alpha() and self.info[0]['cpu model'] == 'PCA56'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:groupcache = None
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:    global beginpattern, groupcounter, groupname, groupcache, grouplist
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache = {groupcounter: {}}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['body'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['vars'] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['block'] = ''
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['name'] = ''
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            grouplist[groupcounter - 1].append(groupcache[groupcounter])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            grouplist[groupcounter - 1].append(groupcache[groupcounter])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            grouplist[groupcounter - 1].append(groupcache[groupcounter])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        if 'externals' in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            for name in groupcache[groupcounter]['externals']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                if 'interfaced' in groupcache[groupcounter] and name in groupcache[groupcounter]['interfaced']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        grouplist[groupcounter - 1].append(groupcache[groupcounter])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:    global variable groupcache, a dictionary containing info about each part
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:    global groupcounter, groupname, groupcache, grouplist, filepositiontext
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['body'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['vars'] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['block'] = 'program'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['name'] = newname
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['from'] = 'fromsky'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['vars'][name] = dict(attrspec = attrs)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if 'args' not in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if name not in groupcache[groupcounter]['args']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if name in groupcache[groupcounter]['interfaced']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['block'] = 'python module'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['name'] = f77modulename
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['from'] = ''
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['body'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['externals'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['interfaced'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['vars'] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['block'] = 'interface'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['name'] = 'unknown_interface'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['from'] = '%s:%s' % (
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter - 1]['from'], groupcache[groupcounter - 1]['name'])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['body'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['externals'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['interfaced'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['vars'] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['block'] = block
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['prefix'] = m.group('before')
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['name'] = rmbadname1(name)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['result'] = result
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['from'] = currentfilename
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter]['from'] = '%s:%s' % (
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    groupcache[groupcounter - 1]['from'], currentfilename)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter]['from'] = '%s:%s' % (
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    groupcache[groupcounter - 1]['from'], groupcache[groupcounter - 1]['name'])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        for k in list(groupcache[groupcounter].keys()):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if not groupcache[groupcounter][k]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                del groupcache[groupcounter][k]
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['args'] = args
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['body'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['externals'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['interfaced'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['vars'] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['entry'] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['varnames'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if name not in groupcache[groupcounter - 2]['externals']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter - 2]['externals'].append(name)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['vars'] = copy.deepcopy(
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter - 2]['vars'])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                del groupcache[groupcounter]['vars'][name][
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    groupcache[groupcounter]['vars'][name]['attrspec'].index('external')]
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    groupcache[groupcounter]['bindlang'] = {name : {}}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    groupcache[groupcounter]['bindlang'][name]["lang"] = bindcdat.group('lang')
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                        groupcache[groupcounter]['bindlang'][name]["name"] = bindcdat.group('lang_name')
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter]['vars'][name] = appenddecl(
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    groupcache[groupcounter]['vars'][name], groupcache[groupcounter - 2]['vars'][''])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                if result and result in groupcache[groupcounter]['vars']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                        groupcache[groupcounter]['vars'][name] = appenddecl(
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                            groupcache[groupcounter]['vars'][name], groupcache[groupcounter]['vars'][result])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter - 2]['interfaced'].append(name)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            grouplist[groupcounter - 1].append(groupcache[groupcounter])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            grouplist[groupcounter - 1].append(groupcache[groupcounter])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['entry'][name] = args
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        edecl = groupcache[groupcounter]['vars']
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if ll[i:] == '::' and 'args' in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                ll = ll + ','.join(groupcache[groupcounter]['args'])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    if k not in groupcache[groupcounter]['args']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                            if '__user__' not in groupcache[groupcounter - 2]['name']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                            if k != groupcache[groupcounter]['name']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                                        ' to %s arguments\n' % (k, groupcache[groupcounter]['name']))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                                groupcache[groupcounter]['args'].append(k)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                if groupcache[groupcounter]['block'] == 'program':
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                if k not in groupcache[groupcounter]['args']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                if 'externals' not in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    groupcache[groupcounter]['externals'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter]['externals'].append(k)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['vars'] = edecl
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['implementedby'] = \
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        edecl = groupcache[groupcounter]['vars']
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['vars'] = edecl
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['implicit'] = None
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if 'implicit' in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                impl = groupcache[groupcounter]['implicit']
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['implicit'] = impl
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        vars = groupcache[groupcounter].get('vars', {})
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['vars'] = vars
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        if 'common' in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            commonkey = groupcache[groupcounter]['common']
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['common'] = commonkey
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if 'use' not in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter]['use'] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['use'][name] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter]['use'][name]['only'] = isonly
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                    groupcache[groupcounter]['use'][name]['map'] = rl
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        if 'f2pyenhancements' not in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['f2pyenhancements'] = {}
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        d = groupcache[groupcounter]['f2pyenhancements']
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        appendmultiline(groupcache[gc],
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:    Alters groupcache to add the name, typespec, attrspec (and possibly value)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:    global groupcache, groupcounter
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        if ename in groupcache[groupcounter]['vars']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            edecl = groupcache[groupcounter]['vars'][ename].copy()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        if 'external' in (edecl.get('attrspec') or []) and e in groupcache[groupcounter]['args']:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            if 'externals' not in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:                groupcache[groupcounter]['externals'] = []
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['externals'].append(e)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        groupcache[groupcounter]['vars'][ename] = edecl
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:        if 'varnames' in groupcache[groupcounter]:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\f2py\crackfortran.py:            groupcache[groupcounter]['varnames'].append(ename)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\lib\tests\test_function_base.py:    def test_upcasting(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\lib\tests\test_io.py:        # bytes encoding with non-latin1 -> unicode upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\lib\tests\test__datasource.py:    def test_InvalidHTTPCacheURLError(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\algorithms.py:            # GH#46485 Use object to avoid upcast to float64 later
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\base.py:        # should allow "easy" concatenation (no upcasting needed), and result
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\boolean.py:    # The value used to fill '_data' to avoid upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\floating.py:    # The value used to fill '_data' to avoid upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\integer.py:    # The value used to fill '_data' to avoid upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\interval.py:    maybe_upcast_numeric_to_64bit,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\interval.py:        left = maybe_upcast_numeric_to_64bit(left)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\interval.py:        right = maybe_upcast_numeric_to_64bit(right)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\masked.py:    # The value used to fill '_data' to avoid upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\masked.py:        # to avoid upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\sparse\accessor.py:        upcasting); that is to say if the dtypes (even of numeric types)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\sparse\accessor.py:        e.g. If the dtypes are float16 and float32, dtype will be upcast to
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\_arrow_string_mixins.py:    def _str_swapcase(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\arrays\_arrow_string_mixins.py:        return type(self)(pc.utf8_swapcase(self._pa_array))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:            # try to upcast here
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:        # don't allow upcasts here (except if empty)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:def maybe_upcast_numeric_to_64bit(arr: NumpyIndexT) -> NumpyIndexT:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:    If array is a int/uint/float bit size lower than 64 bit, upcast it to 64 bit.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:        Upcasted from dtype argument if necessary.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:        Upcasted from fill_value argument if necessary.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:                # upcast to prevent overflow
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\dtypes\cast.py:        #  which will make us upcast too far.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\frame.py:                # GH#57124 - `that` might get upcasted because of NA values, and then
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\frame.py:        upcasting); that is to say if the dtypes (even of numeric types)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\frame.py:        e.g. If the dtypes are float16 and float32, dtype will be upcast to
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\frame.py:        float32.  If dtypes are int32 and uint8, dtype will be upcast to
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexes\accessors.py:        # maybe need to upcast (ints)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexes\base.py:        if we can upcast the object-dtype one to improve performance.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexes\interval.py:    maybe_upcast_numeric_to_64bit,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexes\interval.py:        left = maybe_upcast_numeric_to_64bit(left)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexes\interval.py:        right = maybe_upcast_numeric_to_64bit(right)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexes\interval.py:            key = maybe_upcast_numeric_to_64bit(key)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\indexing.py:                    # - Exclude `object`, as then no upcasting happens.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:    def coerce_to_target_dtype(self, other, warn_on_upcast: bool = False) -> Block:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:            warn_on_upcast = False
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:            warn_on_upcast = False
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:        if warn_on_upcast:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:            # split so that we only upcast where necessary
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:        # Note: algos.take_nd has upcast logic similar to coerce_to_target_dtype
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:            nb = self.coerce_to_target_dtype(value, warn_on_upcast=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:                        new, warn_on_upcast=True
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:            #  without using 'casted', expressions.where may do unwanted upcasts.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:                #  can avoid some potential upcast/downcast by splitting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:                # Note: expressions.where may upcast.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:        """shift the block by periods, possibly upcast"""
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:                nb = self.coerce_to_target_dtype(orig_value, warn_on_upcast=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:                nb = self.coerce_to_target_dtype(orig_value, warn_on_upcast=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:            # Avoid a) raising for Interval/PeriodDtype and b) unnecessary object upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:                    blk = self.coerce_to_target_dtype(orig_new, warn_on_upcast=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\blocks.py:                    blk = self.coerce_to_target_dtype(orig_new, warn_on_upcast=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\concat.py:    def get_reindexed_values(self, empty_dtype: DtypeObj, upcasted_na) -> ArrayLike:
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\concat.py:        if upcasted_na is None and self.block.dtype.kind != "V":
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\concat.py:            # No upcasting is necessary
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\concat.py:            fill_value = upcasted_na
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\concat.py:    upcasted_na = _dtype_to_na_value(empty_dtype, has_none_blocks)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\concat.py:        ju.get_reindexed_values(empty_dtype=empty_dtype, upcasted_na=upcasted_na)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\internals\concat.py:        # no blocks that would get missing values (can lead to type upcasts)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\nanops.py:        # bottleneck does not properly upcast during the sum
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:        >>> repl = lambda m: m.group('two').swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    Series.str.swapcase : Converts uppercase to lowercase and lowercase to
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    >>> s = pd.Series(['lower', 'CAPITALS', 'this is a sentence', 'SwApCaSe'])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    3              SwApCaSe
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    3              swapcase
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    3              SWAPCASE
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    3              Swapcase
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    3              Swapcase
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    >>> s.str.swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    3              sWaPcAsE
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    #       upper, lower, title, capitalize, swapcase, casefold
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    _doc_args["swapcase"] = {
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:        "type": "be swapcased",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:        "method": "swapcase",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    @Appender(_shared_docs["casemethods"] % _doc_args["swapcase"])
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:    def swapcase(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\accessor.py:        result = self._data.array._str_swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\base.py:    def _str_swapcase(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\object_array.py:    def _str_swapcase(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\core\strings\object_array.py:        return self._str_map(str.swapcase)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\stata.py:    Preserve Stata datatypes. If False, numeric data are upcast to pandas
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\stata.py:    are checked for violations of the value restrictions and upcast if needed.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\stata.py:    same size if there is no loss in precision, otherwise are upcast to a
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\stata.py:        # Check values and upcast if necessary
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\stata.py:                # Upcast if needed so that correct missing values can be set
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\io\stata.py:        # Check columns for compatibility with stata, upcast if necessary
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\common.py:def get_upcast_box(left, right, is_cmp: bool = False):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:    get_upcast_box,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        xbox = get_upcast_box(dtarr, other, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        xbox = get_upcast_box(obj, ts, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        xbox = get_upcast_box(left, NaT, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        xbox = get_upcast_box(ser, ser, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        xbox = get_upcast_box(left, right, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        xbox = get_upcast_box(dtarr, other, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        # The datetime object has "us" so we upcast lower units
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        xbox = get_upcast_box(dti, other)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_datetime64.py:        xbox = get_upcast_box(dtarr, other)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_interval.py:from pandas.tests.arithmetic.common import get_upcast_box
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_interval.py:            xbox = get_upcast_box(obj, nulls_fixture, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_period.py:    get_upcast_box,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_period.py:        xbox = get_upcast_box(idx, other, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_period.py:        xbox = get_upcast_box(pi, other, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_period.py:        xbox = get_upcast_box(parr, other, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_period.py:        xbox = get_upcast_box(ser, val, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_period.py:        xbox = get_upcast_box(base, per, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_period.py:        xbox = get_upcast_box(base, idx, True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_timedelta64.py:    get_upcast_box,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_timedelta64.py:        xbox = get_upcast_box(tdi, other)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_timedelta64.py:        xbox = get_upcast_box(tdser, vector)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_timedelta64.py:        xbox = get_upcast_box(tdser, vector)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_timedelta64.py:        xbox = get_upcast_box(tdi, ser)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arithmetic\test_timedelta64.py:        xbox = get_upcast_box(tdi, ser)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arrays\boolean\test_function.py:    # np.sqrt on np.bool_ returns float16, which we upcast to Float32
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\arrays\masked_shared.py:        # Set nullable dtype here to avoid upcasting when setting to pd.NA below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\computation\test_eval.py:    # maybe someday... numexpr has too many upcasting rules now
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\computation\test_eval.py:                reason="numexpr issue with complex that are upcast "
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\copy_view\test_indexing.py:def test_column_as_series_set_with_upcast(
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\copy_view\test_indexing.py:    # setting a value causes an upcast, we don't need to update the parent
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\copy_view\test_methods.py:        # Without CoW the original will be modified, the other case upcasts, e.g. copy
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\dtypes\cast\test_promote.py:        The expected value for the (potentially upcast) fill_value returned by
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\dtypes\cast\test_promote.py:    # returned from maybe_promote is fill_value, potentially upcast to the
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\dtypes\cast\test_promote.py:    # filling int with float always upcasts to float64
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\dtypes\cast\test_promote.py:        # NaT upcasts everything that's not datetime/timedelta to object
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\dtypes\test_inference.py:        # For floats, we just upcast directly to float64 instead of trying to
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\dtypes\test_inference.py:        # For floats, we just upcast directly to float64 instead of trying to
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\extension\test_arrow.py:        # BaseOpsUtil._combine can upcast expected dtype
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\extension\test_arrow.py:                #  ArrowExtensionArray does not upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\extension\test_arrow.py:            #  ArrowExtensionArray does not upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\extension\test_arrow.py:        ["swapcase", "AbC Def"],
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\common.py:    # float16 are most likely to be upcasted to float32
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_coercion.py:@pytest.mark.xfail(reason="unwanted upcast")
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_coercion.py:def test_iloc_setitem_unnecesssary_float_upcasting():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_indexing.py:        # don't upcast if we don't need to
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_indexing.py:        # upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_indexing.py:    def test_setitem_frame_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_indexing.py:        # needs upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_indexing.py:    def test_single_element_ix_dont_upcast(self, float_frame):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_setitem.py:        # Set dtype object straight away to avoid upcast when setting inc below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_where.py:    def test_where_upcasting(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_where.py:        # upcasting case (GH # 2794)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_where.py:        # integers are upcast, so don't check the dtypes
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_where.py:            # dtypes (and confirm upcasts)x
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_where.py:    def test_where_axis_with_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_where.py:        # Upcast needed
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\indexing\test_where.py:        #  checking that we don't unnecessarily upcast to object.
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\methods\test_asof.py:        # explicitly cast to float to avoid implicit upcast when setting to np.nan
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\methods\test_asof.py:        # Cast to 'float64' to avoid upcast when introducing nan in df.asof
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\methods\test_clip.py:        # TODO: avoid this warning here?  seems like we should never be upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\methods\test_map.py:    # Set float64 type to avoid upcast when setting NA below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\methods\test_replace.py:    def test_replace_mixed_int_block_upcasting(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\methods\test_replace.py:        # int block upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\methods\test_replace.py:        # to object block upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_arithmetic.py:            #   DataFrame op will return all-float.  So we upcast `expected`
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_arithmetic.py:        # mix vs float64, upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_arithmetic.py:        # no upcast needed
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_arithmetic.py:        # vs mix (upcast) as needed
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_constructors.py:    def test_constructor_dict_dont_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_constructors.py:    def test_constructor_dict_dont_upcast2(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_constructors.py:        # expecting single value upcasting here
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_constructors.py:        # overflow issue? (we always expected int64 upcasting here)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_cumulative.py:        # GH#19296 dont incorrectly upcast to object
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\frame\test_reductions.py:        # mixed types (with upcasting happening)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\generic\test_finalize.py:        operator.methodcaller("swapcase"),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\groupby\test_counting.py:    # Set float64 dtype to avoid upcast when setting nan below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\groupby\test_filters.py:    # Cast to avoid upcast when setting nan below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\groupby\test_filters.py:    # Cast to avoid upcast when setting nan below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\groupby\test_filters.py:    # Cast to avoid upcast when setting nan below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\groupby\test_filters.py:    # Cast to avoid upcast when setting nan below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\groupby\test_filters.py:    # Cast to avoid upcast when setting nan below
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\groupby\transform\test_transform.py:    # GH 3740, make sure that we might upcast on item-by-item transform
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexes\interval\test_interval_range.py:        # resulting endpoints can safely be upcast to integers
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexes\numeric\test_numeric.py:    # GH#44609 case where we have to upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\multiindex\test_setitem.py:        # arr + 0.5 cannot be cast losslessly to int, so we upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_at.py:        # Set float64 dtype to avoid upcast when setting .5
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_iloc.py:        # Set object type to avoid upcast when setting "Z"
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_indexing.py:    def test_inf_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_indexing.py:    def test_setitem_dtype_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_indexing.py:    def test_setitem_dtype_upcast2(self, val):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_indexing.py:    def test_setitem_dtype_upcast3(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_indexing.py:        # set float64 to avoid upcast when setting nan
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_loc.py:        # Set object dtype to avoid upcast when setting 'Z'
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_loc.py:        # float64 dtype to avoid upcast when trying to set float data
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_loc.py:    def test_loc_setitem_with_expansion_inf_upcast_empty(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\indexing\test_loc.py:def test_loc_setitem_uint8_upcast(value):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:    _maybe_upcast,
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:def test_maybe_upcast(any_real_numpy_dtype):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:    result = _maybe_upcast(arr, use_dtype_backend=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:def test_maybe_upcast_no_na(any_real_numpy_dtype):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:    result = _maybe_upcast(arr, use_dtype_backend=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:def test_maybe_upcaste_bool():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:    result = _maybe_upcast(arr, use_dtype_backend=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:def test_maybe_upcaste_bool_no_nan():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:    result = _maybe_upcast(arr, use_dtype_backend=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:def test_maybe_upcaste_all_nan():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:    result = _maybe_upcast(arr, use_dtype_backend=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:def test_maybe_upcast_object(val, string_storage):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\io\parser\test_upcast.py:        result = _maybe_upcast(arr, use_dtype_backend=True)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\concat\test_append.py:    def test_append_missing_column_proper_upcast(self, sort):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\concat\test_categorical.py:    def test_categorical_index_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\concat\test_categorical.py:        # test upcasting to object when concatenating on categorical indexes
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\concat\test_concat.py:    def test_concat_different_extension_dtypes_upcasts(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\concat\test_concat.py:def test_concat_no_unnecessary_upcast(float_numpy_dtype, frame_or_series):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\concat\test_concat.py:def test_concat_will_upcast(pdt, any_signed_int_numpy_dtype):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\concat\test_concat.py:def test_concat_ea_upcast():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\merge\test_merge.py:        pcat = CategoricalDtype(categories=["P2", "P1"], ordered=ordered)
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\merge\test_merge.py:                "p": Categorical(["P2", "P1", "P2"], dtype=pcat),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\merge\test_merge.py:                "p": Categorical(["P2", "P2", "P1"], dtype=pcat),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\merge\test_merge.py:                "p": Categorical(["P2", "P1", "P2"], dtype=pcat),
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\merge\test_merge.py:def test_merge_datetime_upcast_dtype():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\test_from_dummies.py:    # Set float64 dtype to avoid upcast when setting np.nan
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\reshape\test_from_dummies.py:    # Set object dtype to avoid upcast when setting "str"
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:        # Set object dtype to avoid upcast when setting date.today()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:        # need to upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:    def test_setitem_mask_smallint_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:    def test_setitem_mask_smallint_no_upcast(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:        # like test_setitem_mask_smallint_upcast, but while we can't hold 'alt',
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:        # TODO: ser.where(~mask, alt) unnecessarily upcasts to int64
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:        # set object dtype to avoid upcast when setting inc
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:    #  small-itemsize integer dtypes should not need to upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:class TestSetitemIntoIntegerSeriesNeedsUpcast(SetitemCastingEquivalents):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:class TestSmallIntegerSetitemUpcast(SetitemCastingEquivalents):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:    # bool-with-int and bool-with-float both upcast to object
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:def test_setitem_empty_mask_dont_upcast_dt64():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:    assert ser.dtype == dti.dtype  # no-op -> dont upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_setitem.py:    assert ser.dtype == dti.dtype  # no-op -> dont upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\indexing\test_where.py:def test_where_unsafe_upcast(dtype, expected_dtype):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\methods\test_clip.py:        # TODO: avoid this warning here?  seems like we should never be upcasting
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\methods\test_fillna.py:    def test_fillna_f32_upcast_with_dict(self):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\methods\test_reindex.py:    # don't upcast
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\methods\test_reindex.py:def test_reindex_fill_value_datetimelike_upcast(dtype, fill_value, using_array_manager):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\methods\test_replace.py:        # 3.0 can still be held in our int64 series, so we do not upcast GH#44940
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\methods\test_replace.py:        # MUST upcast to float
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\methods\test_update.py:        # Cast to object to avoid upcast when setting "foo"
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\series\test_missing.py:    # set float64 dtype to avoid upcast when setting nan
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\conftest.py:            "swapcase",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_case_justify.py:def test_swapcase(any_string_dtype):
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_case_justify.py:    result = s.str.swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_case_justify.py:def test_swapcase_mixed_object():
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_case_justify.py:    result = s.str.swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_case_justify.py:    assert s.str.swapcase().tolist() == [v.swapcase() for v in values]
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_find_replace.py:    repl = lambda m: m.group(0).swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_find_replace.py:    repl = lambda m: m.group("middle").swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_find_replace.py:    repl = lambda m: m.group(0).swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_find_replace.py:    repl = lambda m: m.group(0).swapcase()
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pandas\tests\strings\test_strings.py:    tm.assert_series_equal(empty_str, empty.str.swapcase())
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pip\_vendor\rich\_emoji_codes.py:    "cupcake": "≡ƒºü",
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pkg_resources\_vendor\pyparsing\common.py:    - :class:`upcaseTokens`
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pkg_resources\_vendor\pyparsing\common.py:    upcase_tokens = staticmethod(token_map(lambda t: t.upper()))
+Users\Administrator\AppData\Local\Programs\Python\Python311\Lib\site-packages\pkg_resources\_vendor\pyparsing\common.py:    upcaseTokens = upcase_tokens
