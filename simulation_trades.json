@@ -1,0 +1,26 @@
+{
+  "balance": 0.0,
+  "trades": [
+    {
+      "symbol": "DOGEUSDT",
+      "action": "buy",
+      "price": 0.146195,
+      "balance_before": 1000,
+      "quantity": 6840.179212695373
+    },
+    {
+      "symbol": "DOGEUSDT",
+      "action": "buy",
+      "price": 0.146467,
+      "balance_before": 0.0,
+      "quantity": 0.0
+    },
+    {
+      "symbol": "ETHUSDT",
+      "action": "sell",
+      "price": 1504.2,
+      "balance_before": 0.0,
+      "quantity": 0.0
+    }
+  ]
+}

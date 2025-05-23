@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>DiceDux Dashboard</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <h1>📊 DiceDux Trade Panel</h1>
+
+  <section>
+    <h2>🧭 وضعیت ترید</h2>
+    <p>حالت فعلی: <strong id="mode">بارگذاری...</strong></p>
+  </section>
+
+  <section>
+    <h2>💼 موجودی ارزها</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Symbol</th>
+          <th>Balance</th>
+          <th>Last Update</th>
+        </tr>
+      </thead>
+      <tbody id="balances-body"></tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>📑 آخرین معاملات</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Symbol</th>
+          <th>Action</th>
+          <th>Entry Price</th>
+          <th>Confidence</th>
+          <th>Profit</th>
+          <th>Time</th>
+          <th>Mode</th>
+        </tr>        
+      </thead>
+      <tbody id="trades-body"></tbody>
+    </table>
+  </section>
+
+  <section style="margin-top: 40px;">
+    <h2>🛑 کنترل معاملات</h2>
+    <button onclick="closeAllTrades()" style="
+      padding: 10px 20px;
+      background-color: crimson;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;
+      cursor: pointer;
+    ">
+      فروش تمام معاملات باز
+    </button>
+    <p id="close-result" style="margin-top: 10px; font-weight: bold;"></p>
+  </section>
+
+  <section>
+    <h2>⚙️ وضعیت ترید</h2>
+    <p>حالت فعلی: <strong id="mode">بارگذاری...</strong></p>
+  
+    <button onclick="updateTradeStatus('paused')" style="background-color: darkorange;">⏸ توقف ترید</button>
+    <button onclick="updateTradeStatus('running')" style="background-color: green;">▶️ شروع ترید</button>
+    <p id="status-msg" style="font-weight:bold; margin-top: 10px;"></p>
+  </section>  
+
+  <!-- 📄 لاگ زنده هوش مصنوعی -->
+  <section style="margin-top: 40px;">
+      <h2>📢 لاگ زنده هوش مصنوعی</h2>
+      <div id="live-log" style="
+        background-color: #111;
+        color: #0f0;
+        font-family: monospace;
+        padding: 10px;
+        height: 300px;
+        overflow-y: auto;
+        border-radius: 10px;
+        border: 1px solid #555;
+    ">
+      <em>در حال بارگذاری...</em>
+    </div>
+  </section>  
+  
+  <section style="margin-top: 40px;">
+    <h2>📈 نمودار قیمت + سیگنال‌ها</h2>
+    <select id="symbol-select" onchange="loadChart()">
+      <option value="BTCUSDT">BTCUSDT</option>
+      <option value="ETHUSDT">ETHUSDT</option>
+      <option value="DOGEUSDT">DOGEUSDT</option>
+    </select>
+  
+    <div id="chart" style="width: 100%; height: 400px;"></div>
+  </section>
+  
+  <section>
+    <h2>📌 پوزیشن‌های باز</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Symbol</th>
+          <th>Action</th>
+          <th>Entry Price</th>
+          <th>Time</th>
+          <th>TP Price</th>
+          <th>SL Price</th>
+          <th>Step</th>
+          <th>Last Price</th>
+          <th>Live Profit</th>
+        </tr>
+      </thead>
+      <tbody id="open-trades-body"></tbody>
+    </table>
+  </section>  
+
+  <!-- بخش جدید برای نتایج بک‌تست -->
+  <section style="margin-top: 40px;">
+    <h2>📊 نتایج بک‌تست</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Symbol</th>
+          <th>Total Trades</th>
+          <th>Win Rate</th>
+          <th>Total Profit</th>
+          <th>Final Balance</th>
+          <th>Executed At</th>
+        </tr>
+      </thead>
+      <tbody id="backtest-results-body"></tbody>
+    </table>
+  </section>
+
+  <section style="margin-top: 40px;">
+    <h2>📈 نمودار تغییر موجودی حساب</h2>
+    <div id="balance-chart" style="width: 100%; height: 300px;"></div>
+  </section>  
+
+  <!-- اضافه کردن plotly -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>  
+
+  <script src="/static/scripts.js"></script>
+</body>
+</html>
